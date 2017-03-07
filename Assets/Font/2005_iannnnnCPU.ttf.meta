@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d817ab7ef92bdd43a53debfc68dfce7
+timeCreated: 1484128646
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 2005_iannnnnCPU
+  fontNames:
+  - 2005_iannnnnCPU
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

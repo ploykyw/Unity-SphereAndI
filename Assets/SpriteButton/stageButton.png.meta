@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 6ddb5d52df5f68a48952af25db06f06b
+timeCreated: 1481958401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stageButton_0
+    21300002: stageButton_1
+    21300004: stageButton_2
+    21300006: stageButton_3
+    21300008: stageButton_4
+    21300010: stageButton_5
+    21300012: stageButton_6
+    21300014: stageButton_7
+    21300016: stageButton_8
+    21300018: stageButton_9
+    21300020: stageButton_10
+    21300022: stageButton_11
+    21300024: stageButton_12
+    21300026: stageButton_13
+    21300028: stageButton_14
+    21300030: stageButton_15
+    21300032: stageButton_16
+    21300034: stageButton_17
+    21300036: stageButton_18
+    21300038: stageButton_19
+    21300040: stageButton_20
+    21300042: stageButton_21
+    21300044: stageButton_22
+    21300046: stageButton_23
+    21300048: stageButton_24
+    21300050: stageButton_25
+    21300052: stageButton_26
+    21300054: stageButton_27
+    21300056: stageButton_28
+    21300058: stageButton_29
+    21300060: stageButton_30
+    21300062: stageButton_31
+    21300064: stageButton_32
+    21300066: stageButton_33
+    21300068: stageButton_34
+    21300070: stageButton_35
+    21300072: stageButton_36
+    21300074: stageButton_37
+    21300076: stageButton_38
+    21300078: stageButton_39
+    21300080: stageButton_40
+    21300082: stageButton_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stageButton_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 695
+        width: 1014
+        height: 1118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stageButton_11
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 357
+        width: 1011
+        height: 1115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stageButton_12
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 688
+        width: 1017
+        height: 1123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stageButton_0
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1860
+        width: 3879
+        height: 759
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stageButton_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 1608
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stageButton_2
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 0
+        width: 1239
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stageButton_3
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 264
+        width: 946
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
