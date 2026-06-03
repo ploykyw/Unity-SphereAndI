@@ -1,52 +1,135 @@
 fileFormatVersion: 2
 guid: 6ddb5d52df5f68a48952af25db06f06b
-timeCreated: 1481958401
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: stageButton_0
-    21300002: stageButton_1
-    21300004: stageButton_2
-    21300006: stageButton_3
-    21300008: stageButton_4
-    21300010: stageButton_5
-    21300012: stageButton_6
-    21300014: stageButton_7
-    21300016: stageButton_8
-    21300018: stageButton_9
-    21300020: stageButton_10
-    21300022: stageButton_11
-    21300024: stageButton_12
-    21300026: stageButton_13
-    21300028: stageButton_14
-    21300030: stageButton_15
-    21300032: stageButton_16
-    21300034: stageButton_17
-    21300036: stageButton_18
-    21300038: stageButton_19
-    21300040: stageButton_20
-    21300042: stageButton_21
-    21300044: stageButton_22
-    21300046: stageButton_23
-    21300048: stageButton_24
-    21300050: stageButton_25
-    21300052: stageButton_26
-    21300054: stageButton_27
-    21300056: stageButton_28
-    21300058: stageButton_29
-    21300060: stageButton_30
-    21300062: stageButton_31
-    21300064: stageButton_32
-    21300066: stageButton_33
-    21300068: stageButton_34
-    21300070: stageButton_35
-    21300072: stageButton_36
-    21300074: stageButton_37
-    21300076: stageButton_38
-    21300078: stageButton_39
-    21300080: stageButton_40
-    21300082: stageButton_41
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: stageButton_0
+  - first:
+      213: 21300002
+    second: stageButton_1
+  - first:
+      213: 21300004
+    second: stageButton_2
+  - first:
+      213: 21300006
+    second: stageButton_3
+  - first:
+      213: 21300008
+    second: stageButton_4
+  - first:
+      213: 21300010
+    second: stageButton_5
+  - first:
+      213: 21300012
+    second: stageButton_6
+  - first:
+      213: 21300014
+    second: stageButton_7
+  - first:
+      213: 21300016
+    second: stageButton_8
+  - first:
+      213: 21300018
+    second: stageButton_9
+  - first:
+      213: 21300020
+    second: stageButton_10
+  - first:
+      213: 21300022
+    second: stageButton_11
+  - first:
+      213: 21300024
+    second: stageButton_12
+  - first:
+      213: 21300026
+    second: stageButton_13
+  - first:
+      213: 21300028
+    second: stageButton_14
+  - first:
+      213: 21300030
+    second: stageButton_15
+  - first:
+      213: 21300032
+    second: stageButton_16
+  - first:
+      213: 21300034
+    second: stageButton_17
+  - first:
+      213: 21300036
+    second: stageButton_18
+  - first:
+      213: 21300038
+    second: stageButton_19
+  - first:
+      213: 21300040
+    second: stageButton_20
+  - first:
+      213: 21300042
+    second: stageButton_21
+  - first:
+      213: 21300044
+    second: stageButton_22
+  - first:
+      213: 21300046
+    second: stageButton_23
+  - first:
+      213: 21300048
+    second: stageButton_24
+  - first:
+      213: 21300050
+    second: stageButton_25
+  - first:
+      213: 21300052
+    second: stageButton_26
+  - first:
+      213: 21300054
+    second: stageButton_27
+  - first:
+      213: 21300056
+    second: stageButton_28
+  - first:
+      213: 21300058
+    second: stageButton_29
+  - first:
+      213: 21300060
+    second: stageButton_30
+  - first:
+      213: 21300062
+    second: stageButton_31
+  - first:
+      213: 21300064
+    second: stageButton_32
+  - first:
+      213: 21300066
+    second: stageButton_33
+  - first:
+      213: 21300068
+    second: stageButton_34
+  - first:
+      213: 21300070
+    second: stageButton_35
+  - first:
+      213: 21300072
+    second: stageButton_36
+  - first:
+      213: 21300074
+    second: stageButton_37
+  - first:
+      213: 21300076
+    second: stageButton_38
+  - first:
+      213: 21300078
+    second: stageButton_39
+  - first:
+      213: 21300080
+    second: stageButton_40
+  - first:
+      213: 21300082
+    second: stageButton_41
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -54,6 +137,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -61,7 +146,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,10 +159,13 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
-    aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -81,41 +174,90 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -130,8 +272,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: stageButton_11
       rect:
@@ -143,8 +294,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: stageButton_12
       rect:
@@ -156,8 +316,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: stageButton_0
       rect:
@@ -169,8 +338,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: stageButton_1
       rect:
@@ -182,8 +360,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: stageButton_2
       rect:
@@ -195,8 +382,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: stageButton_3
       rect:
@@ -208,10 +404,40 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag: 
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stageButton_0: 21300000
+      stageButton_1: 21300002
+      stageButton_10: 21300020
+      stageButton_11: 21300022
+      stageButton_12: 21300024
+      stageButton_2: 21300004
+      stageButton_3: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

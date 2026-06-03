@@ -33,7 +33,7 @@ public class JumpScript : MonoBehaviour {
 	void FixedUpdate () {
 
 		if(Input.GetKeyDown(KeyCode.Space)){
-			rigid.velocity = new Vector3 (0,1,0);
+			rigid.linearVelocity = new Vector3 (0,1,0);
 		}
 
 	}
